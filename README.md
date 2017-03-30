@@ -1,1 +1,1 @@
-#Matrix is an operating system written in Rust.
+Matrix is an operating system written in Rust.
